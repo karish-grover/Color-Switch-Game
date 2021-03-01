@@ -33,3 +33,6 @@ b) Store the exact position of the ball
 c) Store the position of the obstacles and their orientation
 10) A player must be able to save as well as load any saved game.
 11) Game must allow multiple save/load games.
+
+
+**The UML Diagram shows various class relationships**
